@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lurobertorj.lwc-l3hb0yvm-fork-l7ujeb0y",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve LNnSmWasB0hA1tDSCdfC --open"
+  }
+}
